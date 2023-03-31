@@ -1,0 +1,107 @@
+----------------------------SHIP----------------------------
+Ship's id - 0
+Name - Titanic
+Home port - Sydney
+Origin - Tokyo
+Destination - London
+Maximum number of Toxic and Explosive containers - 3
+Maximum number of Heavy Containers - 10
+Maximum number of containers requiring connection to the electricity network - 10
+Maximum number of all containers - 10
+Maximum weight load - 15.0
+----------CONTAINER------------
+Information about the sender - Adam Smith
+Information about the security - CCC
+Tare - 1.0
+Net Weight - 1.0
+Gross Weight - 2.0
+Information about the certificate - BBB
+Type - LIQUIDTOX
+Colour - yellow
+Size - 5
+Density - 8.0
+Type of the toxin - poison
+----------CONTAINER------------
+Information about the sender - Adam Smith
+Information about the security - AAA
+Tare - 1.0
+Net Weight - 1.0
+Gross Weight - 2.0
+Information about the certificate - BBB
+Type - LIQUID
+Colour - green
+Volume - 5
+----------------------------SHIP----------------------------
+Ship's id - 1
+Name - Rolands
+Home port - Sydney
+Origin - Tokyo
+Destination - London
+Maximum number of Toxic and Explosive containers - 3
+Maximum number of Heavy Containers - 10
+Maximum number of containers requiring connection to the electricity network - 10
+Maximum number of all containers - 10
+Maximum weight load - 15.0
+----------CONTAINER------------
+Information about the sender - Adam Smith
+Information about the security - AAA
+Tare - 1.0
+Net Weight - 1.0
+Gross Weight - 2.0
+Information about the certificate - BBB
+Type - POWDERY
+Colour - black
+Size - 5
+Density - 3.0
+Type of powder - sandy
+----------CONTAINER------------
+Information about the sender - Adam Smith
+Information about the security - AAA
+Tare - 1.0
+Net Weight - 1.0
+Gross Weight - 2.0
+Information about the certificate - BBB
+Type - REFRIGERATED
+Colour - white
+Size - 5
+Type of electrical network connection - DSL
+----------CONTAINER------------
+Information about the sender - Marin Rells
+Information about the security - AAA
+Tare - 1.0
+Net Weight - 1.0
+Gross Weight - 2.0
+Information about the certificate - BBB
+Type - EXPLOSIVE
+Colour - pink
+Danger - 3
+----------CONTAINER------------
+Information about the sender - Adam Smith
+Information about the security - A2
+Tare - 1.0
+Net Weight - 1.0
+Gross Weight - 2.0
+Information about the certificate - BBB
+Type - EXPLOSIVE
+Colour - green
+Danger - 3
+----------------------------SHIP----------------------------
+Ship's id - 2
+Name - Laconia
+Home port - Radom
+Origin - Saudi Arabia
+Destination - Moon
+Maximum number of Toxic and Explosive containers - 2
+Maximum number of Heavy Containers - 40
+Maximum number of containers requiring connection to the electricity network - 1
+Maximum number of all containers - 300
+Maximum weight load - 1.5E8
+----------CONTAINER------------
+Information about the sender - Adam Smith
+Information about the security - djhdj
+Tare - 1.0
+Net Weight - 1.0
+Gross Weight - 2.0
+Information about the certificate - sjsj
+Type - STANDARD
+Colour - red

@@ -1,0 +1,9 @@
+----------CONTAINER------------
+Information about the sender - Marin Rells
+Information about the security - AAA
+Tare - 0.5
+Net Weight - 1.0
+Gross Weight - 1.5
+Information about the certificate - BBB
+Type - STANDARD
+Colour - red

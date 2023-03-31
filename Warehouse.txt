@@ -1,0 +1,10 @@
+----------CONTAINER------------
+Information about the sender - Adam Smith
+Information about the security - BBC
+Tare - 1.0
+Net Weight - 1.0
+Gross Weight - 2.0
+Information about the certificate - BBB
+Type - HEAVY
+Colour - blue
+Size - 5
